@@ -6,7 +6,11 @@ The program template contains the following:
 ```python
 def main():
   #write your code below this line
+def Ada_Lovelace():
+    print("Hello world")
 
+if __name__ == '__main__':
+    Ada_Lovelace()
 if __name__ == '__main__':
     main()
 ```
